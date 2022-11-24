@@ -1,0 +1,4 @@
+#Thu Nov 24 12:37:12 BRT 2022
+base.0=/home/lucas/Área de Trabalho/Projetos/tombmap/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
